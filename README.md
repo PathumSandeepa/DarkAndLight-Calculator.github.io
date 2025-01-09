@@ -22,6 +22,6 @@
   <p>This project is not licensed. Feel free to use it as you wish.</p>
   
   <h2>📋 Introduction</h2>
-  <p>Here is a calculator that I created using HTML, CSS, and Javascript. By clicking on the moon button above, the user can switch between a dark theme and a Light theme.</p>
+  <p>Here is a calculator that I created using HTML, CSS, and Javascript. By clicking on the moon button above, the user can switch between a dark theme and a Light theme. </p>
 </body>
 </html>
